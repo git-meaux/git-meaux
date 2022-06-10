@@ -2,7 +2,7 @@
 
 I'm a brand new full stack developer after doing a bootcamp at [Codaisseur :{)](https://codaisseur.com/courses/academy/).
 
-I used to do 3D visualisations : [3D link](http://be.net/mvde)
+Before that, I was doing 2D/3D visualisations : [portfolio](http://be.net/mvde)
 
 
 ---
