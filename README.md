@@ -13,7 +13,7 @@ My stack:
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/express.svg" /> <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/postgresql.svg" />
 ---
 
-With this game project I was able to put me previous experience to use :
+Using past experience with this project: 
 
 [<img height="200" src="https://github.com/git-meaux/button-basher/raw/main/game-screens/shark.png" />](https://github.com/git-meaux/button-basher)
 
