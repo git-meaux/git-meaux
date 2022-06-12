@@ -8,9 +8,9 @@ Before that, I was doing 2D/3D visualisations : [portfolio](http://be.net/mvde)
 ---
 My stack:
 
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/javascript.svg" /> <img height="32" width="32" src="https://unpkg.com/simple-icons@v7/icons/npm.svg" /> <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/react.svg" /> <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/redux.svg" /> <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/sequelize.svg" />
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/javascript.svg" /> <img height="32" width="32" src="https://cdn.icon-icons.com/icons2/512/PNG/512/prog-nodejs02_icon-icons.com_50780.png" />
+ <img height="32" width="32" src="https://unpkg.com/simple-icons@v7/icons/npm.svg" /> <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/react.svg" /> <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/redux.svg" /> <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/sequelize.svg" />
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/express.svg" /> <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/postgresql.svg" />
-
 ---
 
 With this game project I was able to put me previous experience to use :
