@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a brand new full stack developer after doing a bootcamp at [Codaisseur :{)](https://codaisseur.com/courses/academy/).
+I'm a brand new full stack developer after doing a bootcamp at [Codaisseur :{)](https://codaisseur.com/courses/academy/)
 
 Before that, I was doing 2D/3D visualisations and sometimes animations : [portfolio](http://be.net/mvde)
 
